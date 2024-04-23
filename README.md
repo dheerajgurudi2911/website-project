@@ -1,18 +1,3 @@
-<h1 align="center"><a href="https://akhilbattu.github.io/AB-website" target="_blank">Personal Portfolio</a></h1>
-
-<h3 align="center">
-    <p align="center">
-      <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-technologies-and-tools">Technologies and Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-license">License</a>
-  </p>
-</h3>
-
-<p align="center">
-  <a href="https://github.com/AkhilBattu/AB-website">
-    <img src="./website/img/index.png">
-  </a>
-</p>
 
 ## 🔖 About
 
